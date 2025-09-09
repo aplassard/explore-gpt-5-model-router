@@ -1,0 +1,2 @@
+timestamp_utc,experiment,run_index,requested_model,system_fingerprint,response_id,latency_ms,prompt_tokens,completion_tokens,total_tokens
+2025-09-08T18:02:20.779133+00:00,5_code_write,1,gpt-5,,chatcmpl-CDaTrp391gBJU6wx8ctxCrtkamHOO,9205,31,783,814
