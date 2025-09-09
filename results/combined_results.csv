@@ -1,0 +1,6 @@
+timestamp_utc,experiment,run_index,requested_model,system_fingerprint,response_id,latency_ms,prompt_tokens,completion_tokens,total_tokens
+2025-09-08T18:00:50.270912+00:00,1_factoid_trivial,1,gpt-5,,chatcmpl-CDaSWe8X8OzdHzI8RO067XczgmyQS,2617,13,85,98
+2025-09-08T18:01:44.663158+00:00,2_reasoning_deep,1,gpt-5,,chatcmpl-CDaSYVaNF9Cu2wVCcsEeI4CnL4Bgu,54191,62,2632,2694
+2025-09-08T18:01:51.744655+00:00,3_context_long,1,gpt-5,,chatcmpl-CDaTQoS9IC8Q7wB5iNiLxoBDikJfN,6880,3028,291,3319
+2025-09-08T18:02:11.373188+00:00,4_creative_sonnet,1,gpt-5,,chatcmpl-CDaTYl9VxIVEGBMRL4qcAGz4pMIKO,19427,22,1743,1765
+2025-09-08T18:02:20.779133+00:00,5_code_write,1,gpt-5,,chatcmpl-CDaTrp391gBJU6wx8ctxCrtkamHOO,9205,31,783,814

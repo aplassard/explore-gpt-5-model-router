@@ -2,6 +2,7 @@
 __pycache__/
 *.py[codz]
 *$py.class
+router_probe_results/
 
 # C extensions
 *.so

@@ -1,0 +1,2 @@
+timestamp_utc,experiment,run_index,requested_model,system_fingerprint,response_id,latency_ms,prompt_tokens,completion_tokens,total_tokens
+2025-09-08T18:02:11.373188+00:00,4_creative_sonnet,1,gpt-5,,chatcmpl-CDaTYl9VxIVEGBMRL4qcAGz4pMIKO,19427,22,1743,1765
